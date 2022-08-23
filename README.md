@@ -11,6 +11,11 @@ A curated collection of add-ons to use in Mozilla Firefox to make it work better
 |---------|---------------------------------------------------------|
 | Tabliss | https://addons.mozilla.org/en-GB/firefox/addon/tabliss/ |
 
+## Bookmarks
+| Name             | Link                                                             | 
+|------------------|------------------------------------------------------------------|
+| iCloud Bookmarks | https://addons.mozilla.org/en-GB/firefox/addon/icloud-bookmarks/ |
+
 ## Language Support
 | Name         | Link                                                         | 
 |--------------|--------------------------------------------------------------|
